@@ -1,41 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 7 páginas mergulha no universo da sustentabilidade, trazendo dicas práticas para reduzir o impacto ambiental no dia a dia. Desde hábitos simples até iniciativas inovadoras, exploramos como cada pessoa pode fazer a diferença.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🌍 Tecnologias Utilizadas
+IA Generativa ChatGPT para planejamento e redação do conteúdo;
+Canva para criar gráficos e ilustrações exclusivas;
+Google Docs para colaboração e revisão em equipe.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🧐 Processo de Criação
+Utilizei o ChatGPT para organizar e detalhar as informações coletadas sobre práticas sustentáveis, estruturando capítulos claros e objetivos. Para a parte visual, o Canva foi essencial na criação de imagens e infográficos cativantes, enquanto o Google Docs possibilitou a edição colaborativa e alinhamento final.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O e-book combina informações úteis com um visual moderno, tornando o conteúdo acessível e atrativo. Ele se propõe a inspirar e educar leitores sobre a importância de pequenas ações no combate às mudanças climáticas.
 ```
 
 ### Exemplos e Insigths
